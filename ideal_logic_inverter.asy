@@ -5,7 +5,7 @@ LINE Normal 0 64 0 -32
 LINE Normal 96 16 0 64
 LINE Normal -16 16 0 16
 RECTANGLE Normal 144 112 -48 -64
-TEXT 50 56 Left 2 buffer
+TEXT 35 58 Left 2 inverter
 PIN -48 16 LEFT 8
 PINATTR PinName in
 PINATTR SpiceOrder 1

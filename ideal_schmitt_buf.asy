@@ -1,11 +1,16 @@
 Version 4
 SymbolType BLOCK
-LINE Normal 0 -32 96 16
 LINE Normal 0 64 0 -32
-LINE Normal 96 16 0 64
 LINE Normal -16 16 0 16
+LINE Normal 22 4 48 4
+LINE Normal 22 25 22 4
+LINE Normal 11 25 22 25
+LINE Normal 34 25 22 25
+LINE Normal 34 4 34 25
+LINE Normal 80 16 0 -32
+LINE Normal 0 64 80 16
 RECTANGLE Normal 144 112 -48 -64
-TEXT 50 56 Left 2 buffer
+TEXT -19 69 Left 2 schmitt buf
 PIN -48 16 LEFT 8
 PINATTR PinName in
 PINATTR SpiceOrder 1
